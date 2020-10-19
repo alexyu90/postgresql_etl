@@ -1,4 +1,4 @@
-<p align="center"><img src="images/postgres.png" style="height: 50%; width: 50%; max-width: 50px" /></p>
+<p align="center"><img src="images/postgres.png" style="height: 25%; width: 25%; max-width: 30px" /></p>
 
 ## Project Overview
 
