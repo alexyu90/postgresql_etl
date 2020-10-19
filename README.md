@@ -1,3 +1,5 @@
+<p align="center"><img src="images/postgres.png" style="height: 100%; width: 100%; max-width: 200px" /></p>
+
 ## Project Overview
 
 This project is an excercise for data modeling with Postgres and building an ETL pipeline using Python. Fact and dimension tables for a star schema is defined, and an ETL pipeline is written to transfer data from files in two local directories into tables in Postgres using Python and SQL.
